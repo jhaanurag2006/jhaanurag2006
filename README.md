@@ -139,16 +139,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/jhaanurag2006/jhaanurag2006/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
