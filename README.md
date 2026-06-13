@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🚀 Aspiring ML Engineer | Intelligent Systems Builder | Future Technology Entrepreneur
+### 🚀 Aspiring Data Scientist | Intelligent Systems Builder | Future Technology Entrepreneur
 
 > **Designing intelligent systems today to create scalable technology, global impact, and future-ready innovation.**
 
